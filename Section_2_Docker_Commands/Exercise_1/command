@@ -1,3 +1,0 @@
-# Type in the docker run command to run a container based on centos image in the command file
-
-docker run centos

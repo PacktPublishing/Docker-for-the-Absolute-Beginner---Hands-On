@@ -1,3 +1,0 @@
-# Stop the running container
-
-docker stop trusting_borg
