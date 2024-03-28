@@ -1,3 +1,0 @@
-Labs - Environment Variables 
-
-Access the labs here - https://udlabs.kodekloud.com/topic/labs-envirnoment-variables/ 

@@ -1,3 +1,0 @@
-Labs: Docker Compose 
-
-Access Lab Here - https://udlabs.kodekloud.com/topic/labs-docker-compose/ 

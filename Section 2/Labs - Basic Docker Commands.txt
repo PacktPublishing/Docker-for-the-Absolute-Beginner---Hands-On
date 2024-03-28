@@ -1,3 +1,0 @@
-Labs - Basic Docker Commands
-
-Access the labs here - https://udlabs.kodekloud.com/topic/labs-basic-docker-commands-beta/

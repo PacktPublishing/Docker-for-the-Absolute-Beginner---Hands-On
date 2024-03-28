@@ -1,3 +1,0 @@
-Labs - Docker Run 
-
-Access the labs here - https://udlabs.kodekloud.com/topic/labs-docker-run-commands/ 
