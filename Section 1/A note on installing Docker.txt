@@ -1,0 +1,15 @@
+A note on installing Docker
+
+In the upcoming Demo we will see how to install Docker on a Linux machine.
+
+However, remember that you don't really need to setup your own Docker system to complete this course. We have hands-on labs that open up right in your browser.
+
+
+
+If you really wish to setup your own system, then feel free to follow along. In case you are on Windows, you have 2 options:
+
+
+
+1. Install Virtualbox and deploy a Linux VM and then follow the upcoming demo to install Docker on that Linux VM.
+
+2. Install Docker on Windows. Watch this lecture and demo on Docker on Windows now - "Docker on Windows" and "Demo - Docker on Windows" in Section 8.
